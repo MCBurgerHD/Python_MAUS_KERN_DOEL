@@ -1,0 +1,13 @@
+from random import randrange
+a = randrange (42, 47)
+b = randrange (42, 47)
+c = randrange (42, 47)
+d = randrange (42, 47)
+e = randrange (42, 47)
+f = randrange (42, 47)
+g = randrange (42, 47)
+h = randrange (42, 47)
+i = randrange (42, 47)
+j = randrange (42, 47)
+k = randrange (42, 47)
+print(a, b, c, d, e, f, g, h, i, j, k)
