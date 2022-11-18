@@ -1,0 +1,4 @@
+Dies ist ANSII-Text
+Mit kleinen Umlauten: ä, ö, ü
+Mit grossen Umlauten: Ä, Ö, Ü
+und scharfen S: ß
