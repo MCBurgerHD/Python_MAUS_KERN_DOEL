@@ -1,0 +1,13 @@
+Dies ist blindtext.txt
+wir sind in der 2.Zeile
+es gibt
+noch
+mehr zum Lesen
+Sonderzeichen klein: ä, ö, ü, ß
+Sonderzeichen groß: Ä, Ö, Ü
+
+Viel Spass
+
+bei der
+
+Dateiverarbeitung!
